@@ -51,18 +51,20 @@ Follow these instructions to set up and run the project on your local machine.
 2. Navigate to the server directory and install server dependencies:
   cd server
   npm install
-3.Set up your environment variables by creating a .env file in the server directory. Configure variables like database connection, JWT secret, and payment gateway credentials.
-4.Navigate to the client directory and install client dependencies:
-  cd ../client
+3. Set up your environment variables by creating a .env file in the server directory. Configure variables like database connection, JWT secret, and payment gateway credentials.
+
+4. 4.Navigate to the client directory and install client dependencies:
+  cd server
   npm install
-5.Start the server:
+5. Start the server:
   cd ../server
   npm start
-6.Start the client:
-  cd ../client
-  npm start
+6. Start the client:
+   cd ../client
+   npm start
 
 The project should now be accessible at http://localhost:3000.
+
 Usage
 
     Register a user account or log in if you're an existing user.
