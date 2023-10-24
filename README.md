@@ -34,13 +34,6 @@
 
 Follow these instructions to set up and run the project on your local machine.
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) for the server-side application.
-
-- [React](https://reactjs.org/) for the client-side application.
-
-- A database system (e.g., [MongoDB](https://www.mongodb.com/)).
 
 ### Installation
 
@@ -49,6 +42,28 @@ Follow these instructions to set up and run the project on your local machine.
    ```sh
    git clone https://github.com/yourusername/medicine-management.git
 
+## Purpose:
+
+The purpose of the Online Medicine Management System is to provide a user-friendly platform that enables individuals to conveniently purchase medicines online. It addresses the following key objectives:
+
+   1. Access to a Wide Range of Medicines: Offer users access to a comprehensive catalog of medicines, ensuring they can find the medications they need easily.
+
+   2. Convenient Ordering: Streamline the process of ordering medicines, reducing the need to physically visit a pharmacy, especially in cases of chronic illnesses or health concerns.
+
+   3. User-Friendly Interface: Create an intuitive and user-friendly interface that can be used by individuals of all ages, including seniors who may require easy navigation.
+
+   4. Secure Transactions: Ensure the safety and security of online transactions, assuring users that their personal and financial information is protected.
+
+   5. Order Tracking: Provide users with the ability to track the status of their orders, offering transparency and peace of mind.
+
+   6. Admin Control: Implement an admin dashboard to manage medicine listings, user accounts, and monitor orders efficiently.
+
+Description:
+The Online Medicine Management System is a web-based application designed to simplify the process of purchasing medicines online. It caters to the needs of a diverse range of users, including patients with chronic conditions, caregivers, and individuals seeking over-the-counter medications.
+
+The system boasts a user-friendly interface that allows users to create accounts, search for medicines, add them to their shopping carts, and complete the purchase.
+
+Users can also view their order history and track the status of their current orders, providing them with real-time information about their medication deliveries. In addition, an admin dashboard is available for administrators to manage the database of medicines, oversee user accounts, and monitor the order fulfillment process.
 
 Usage
 
