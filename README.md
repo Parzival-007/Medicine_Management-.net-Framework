@@ -18,8 +18,6 @@
 
 - **Search Functionality:** Users can search for specific medicines by name, category, or manufacturer.
 
-- **Shopping Cart:** Users can add medicines to their shopping cart and proceed to checkout.
-
 - **Order History:** View a history of previous orders and track the status of current orders.
 
 - **Secure Payment:** Integration with secure payment gateways for online transactions.
