@@ -5,12 +5,10 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
+- [Purpose](#purpose)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -30,17 +28,6 @@
 
 - **Responsive Design:** The platform is accessible on various devices, including mobile phones and desktops.
 
-## Getting Started
-
-Follow these instructions to set up and run the project on your local machine.
-
-
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/yourusername/medicine-management.git
 
 ## Purpose:
 
@@ -58,12 +45,21 @@ The purpose of the Online Medicine Management System is to provide a user-friend
 
    6. Admin Control: Implement an admin dashboard to manage medicine listings, user accounts, and monitor orders efficiently.
 
-Description:
+## Description:
+
 The Online Medicine Management System is a web-based application designed to simplify the process of purchasing medicines online. It caters to the needs of a diverse range of users, including patients with chronic conditions, caregivers, and individuals seeking over-the-counter medications.
 
 The system boasts a user-friendly interface that allows users to create accounts, search for medicines, add them to their shopping carts, and complete the purchase.
 
 Users can also view their order history and track the status of their current orders, providing them with real-time information about their medication deliveries. In addition, an admin dashboard is available for administrators to manage the database of medicines, oversee user accounts, and monitor the order fulfillment process.
+
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/yourusername/medicine-management.git
 
 Usage
 
